@@ -62,6 +62,7 @@ Lower Bound = 20-day avg close - (std% × previous close)
 
 * `temp_prices_2021_2024_anon.tsv`
   `(date, symbol, open, high, low, close, volume)`
+  ` This file is excluded due to size limits.
 
 ---
 
